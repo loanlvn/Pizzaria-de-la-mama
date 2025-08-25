@@ -6,7 +6,7 @@
 ---
 
 ## 🎯 Goal & Context
-- Purpose: practice **semantic HTML** and **modern CSS** (layout, typography, spacing).
+- Purpose: practice **semantic HTML** and **CSS** (layout, typography, spacing).
 - Timeline: early learning phase (a few weeks into my course).
 - Scope: **frontend only** (no JavaScript, no backend).
 - Outcome: a playful restaurant landing page that helped me consolidate fundamentals.
