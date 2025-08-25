@@ -1,0 +1,54 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background-color: #e31806;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  padding: 20px;
+}
+header nav ul {
+  list-style: none;
+  padding: 0;
+}
+header nav ul li {
+  display: inline;
+  margin: 0 15px;
+}
+header nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+header nav ul li a:hover {
+  color: yellow;
+  cursor: pointer;
+}
+section {
+  padding: 15px;
+  margin: 20px 0px;
+}
+#menu .list {
+  font-size: large;
+  box-shadow: 0 20px 25px rgba(0, 0, 0, 0.1), 0 10px 10px rgba(0, 0, 0, 0.04);
+  list-style: none;
+  padding: 0;
+}
+#menu .list .titre .description {
+  margin: 10px 0;
+}
+#a_propos p {
+  font-size:large;
+  text-indent: 10px;
+  box-shadow: 0 20px 25px rgba(0, 0, 0, 0.1), 0 10px 10px rgba(0, 0, 0, 0.04);
+}
+footer {
+  text-align: center;
+  background-color: #0cf192;
+  color: white;
+  padding: 20px;
+}
+
+
